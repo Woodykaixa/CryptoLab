@@ -1,0 +1,8 @@
+.vs
+bin/
+obj/
+*.user
+*.dll
+*.exp
+*.lib
+*.exe
